@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974475750891",
+    "firebase_url": "https://augmento10-562fe.firebaseio.com",
+    "project_id": "augmento10-562fe",
+    "storage_bucket": "augmento10-562fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974475750891:android:255a42e685dafcbfe1bdae",
+        "android_client_info": {
+          "package_name": "com.example.shubham.augmento10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974475750891-o3vfddv245g7unklc424tet4e2tjt6hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shubham.augmento10",
+            "certificate_hash": "f0220b7dfd1105bc03975c621bbe43a2de2c172a"
+          }
+        },
+        {
+          "client_id": "974475750891-p8mkf5e5ddr182f9rc9gnfhqoaa5l9be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfyVr4ABKnQG2zja93GhZzir9CuguBi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974475750891-p8mkf5e5ddr182f9rc9gnfhqoaa5l9be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
