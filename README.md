@@ -1,3 +1,3 @@
 # Augmento
 
-![Project Showcase] (https://giphy.com/gifs/RD5KlZ2RdfbM5L6k47)
+![Project Showcase](https://media.giphy.com/media/RD5KlZ2RdfbM5L6k47/giphy.gif)
